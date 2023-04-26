@@ -1,1 +1,1 @@
-# credit_scoring_pycaret_streamlit
+# credit_scoring_with_pycaret_streamlit
